@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+
+body{
+    background-color: #fff;
+	font-family: 'Noto Sans', sans-serif;
+}
+.App{
+    display: block;
+	width: 60%;
+	margin: 10px auto 100px;
+	background-color:#eaecf6;
+	padding:10px 40px 10px 40px;
+	border-radius:10px
+}
+.csmbody{
+    background-color:#FFF;
+	padding: 20px;
+}
